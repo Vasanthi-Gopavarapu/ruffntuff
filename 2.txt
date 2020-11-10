@@ -1,1 +1,2 @@
-text into the second file again
+text into the second file
+2
