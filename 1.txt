@@ -3,4 +3,4 @@ ABcdefg
 ashgdfjhsg
 4th line
 5th
-6th
+6thchanging contents of 1 for merging
