@@ -7,3 +7,4 @@
     red color
     5th line
     rebase working check with third file edit
+editing file 3 from master
