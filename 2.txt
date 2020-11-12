@@ -2,3 +2,4 @@ text into the second file
 2
 changing contents of 2 for merging
 changing contents of 2 for LD
+rebase working check with second file edit
