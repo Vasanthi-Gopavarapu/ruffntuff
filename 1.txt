@@ -6,9 +6,4 @@ ashgdfjhsg
 6thchanging contents of 1 for merging
 changing contents of 1 for LD
 rebase working check with first file edit
-editing file 1 from master
-editing file 1 from br_1
-editing file 1 from br_1
-editing file 1 from br_1
-editing 1st file from br_1
-editing 1st file from br_1
+edit 1-1
