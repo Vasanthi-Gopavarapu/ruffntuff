@@ -4,5 +4,12 @@ changing contents of 2 for merging
 changing contents of 2 for LD
 rebase working check with second file edit
 editing file 2 from master
+<<<<<<< HEAD
 eaksdcascd0
 eaksdcascd0
+=======
+editing 1st file from br_1
+editing 3rd file from br_1
+editing 2nd file from br_1
+edit 2-1
+>>>>>>> c92ed4f... edit 2-1 from br_1
