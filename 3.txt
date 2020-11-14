@@ -9,3 +9,4 @@
     rebase working check with third file edit
 editing file 3 from master
 edit 3-1
+3-1
