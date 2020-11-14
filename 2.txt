@@ -15,3 +15,4 @@ edit 2-1
 >>>>>>> c92ed4f... edit 2-1 from br_1
 2-1
 2-2
+cp 2-1
