@@ -12,3 +12,5 @@ edit 2-1
 2-2
 vasu edit 2-1
 vasu edit 2-2
+edit for squash 1
+edit for squash 2

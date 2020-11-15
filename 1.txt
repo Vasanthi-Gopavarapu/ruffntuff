@@ -17,3 +17,5 @@ vasu commit on master 1
 vasu edit 1-1
 vasu edit 2-1
 squash master change 
+edit for squash 1
+edit for squash 2

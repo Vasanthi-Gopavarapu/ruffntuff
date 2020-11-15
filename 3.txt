@@ -15,3 +15,6 @@ vasu edit 3-1
 vasu edit 3-1
 vasu edit 3-2
 squash master change
+edit for squash 1
+edit for squash 1
+edit for squash 2
