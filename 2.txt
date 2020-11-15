@@ -14,3 +14,4 @@ vasu edit 2-1
 vasu edit 2-2
 edit for squash 1
 edit for squash 2
+edit squash and drop 2-1

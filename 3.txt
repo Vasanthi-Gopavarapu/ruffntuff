@@ -19,3 +19,4 @@ edit for squash 1
 edit for squash 1
 edit for squash 2
 master squash-drop
+edit squash and drop 3-1
